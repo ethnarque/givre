@@ -26,8 +26,9 @@ local variants = {
 		tag = '#336275',
 		type = '#BBA08B',
 		--- Misc
-		danger = '#E56E6B',
+		danger = '#CC6F6D',
 		warn = '#BB906E',
+		info = '#7E9A94',
 		success = '#7DA98E',
 	},
 
