@@ -15,11 +15,11 @@ local variants = {
 		visual = '#242424',
 		whitespace = '#303030',
 
-		shade1 = '#636363',
-		shade2 = '#797979',
-		shade3 = '#868686',
-		shade4 = '#989898',
-		shade5 = '#AAAAAA',
+		shade1 = '#696969',
+		shade2 = '#7D7D7D',
+		shade3 = '#8C8C8C',
+		shade4 = '#9E9E9E',
+		shade5 = '#B0B0B0',
 		--- Syntax and shades
 		identifier = '#929292',
 		number = '#AF9A8A',
