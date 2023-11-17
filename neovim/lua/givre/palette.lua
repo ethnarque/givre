@@ -5,7 +5,7 @@ local variants = {
 		--- Main
 		bg = '#101010',
 		fg = '#B8B8B8',
-		accent = '#7F8B99',
+		accent = '#778998',
 		--- UI
 		cursor_line = '#191919',
 		inactive = '#383838',
@@ -23,7 +23,7 @@ local variants = {
 		--- Syntax and shades
 		identifier = '#929292',
 		number = '#AF9A8A',
-		tag = '#336275',
+		tag = '#3F7890',
 		type = '#BBA08B',
 		--- Misc
 		danger = '#CC6F6D',
