@@ -28,7 +28,7 @@ local variants = {
 		--- Misc
 		danger = '#E56E6B',
 		warn = '#BB906E',
-		success = '#659A68',
+		success = '#7DA98E',
 	},
 
 	light = {},
