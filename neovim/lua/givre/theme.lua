@@ -133,6 +133,7 @@ function M._load(options)
 		-- GitSigns
 		['GitSignsAdd'] = { link = 'DiffAdd' },
 		['GitSignsChange'] = { link = 'DiffChange' },
+		['GitSignsDelete'] = { link = 'DiffDelete' },
 	}
 
 	for group, opts in pairs(options.highlight_groups) do
